@@ -233,3 +233,20 @@ input[type="button"]{
     height: 5rem;
 
 }
+.wrapper img{
+width: 100%;
+display: inline-block;
+
+}
+.wrapper p{
+    display: inline-block;
+}
+.home .wrapper{
+    width: 99%;
+}
+.home .signup-box{
+    width: 100%;
+}
+.p .home{
+    text-align: center;
+}
